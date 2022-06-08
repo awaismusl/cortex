@@ -265,7 +265,7 @@ return [
             //'tenantarea',
         ],
 
-        'cortex.rinvex.test' => [
+        'cortex-tailwind.loc' => [
             'frontarea',
             'adminarea',
             'managerarea',

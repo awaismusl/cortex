@@ -51,6 +51,14 @@
         {
             "type": "vcs",
             "url": "https://github.com/laravel-shift/uniquewith-validator.git"
+        },
+        {
+            "type": "path",
+            "url": "./app/cortex/foundation"
+        },
+        {
+            "type": "path",
+            "url": "./app/cortex/auth"
         }
     ],
     "require": {
@@ -65,7 +73,7 @@
         "beyondcode/laravel-self-diagnosis": "dev-l9-compatibility",
         "cortex/auth": "^8.0.0",
         "cortex/categories": "^6.0.0",
-        "cortex/foundation": "^7.0.0",
+        "cortex/foundation": "dev-master",
         "cortex/oauth": "^3.0.0",
         "cortex/pages": "^6.0.0",
         "cortex/tags": "^6.0.0",
